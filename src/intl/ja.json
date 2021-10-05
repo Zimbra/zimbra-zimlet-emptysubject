@@ -1,0 +1,7 @@
+{
+  "noSubject": {
+    "description": "このメッセージには件名がありません。",
+    "sendAnyway": "件名なしで送る",
+    "title": "件名なし"
+  }
+}

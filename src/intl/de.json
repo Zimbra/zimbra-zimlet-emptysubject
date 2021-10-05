@@ -1,0 +1,7 @@
+{
+  "noSubject": {
+    "description": "Diese Nachricht hat keinen Betreff.",
+    "sendAnyway": "Wegschicken",
+    "title": "Kein Thema"
+  }
+}

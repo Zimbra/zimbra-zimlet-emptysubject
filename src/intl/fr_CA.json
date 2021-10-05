@@ -1,0 +1,7 @@
+{
+  "noSubject": {
+    "description": "Ce message n’a pas d’objet.",
+    "sendAnyway": "Envoyer quand même",
+    "title": "Sans objet"
+  }
+}

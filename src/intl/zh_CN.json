@@ -1,0 +1,7 @@
+{
+  "noSubject": {
+    "description": "此邮件没有主题。",
+    "sendAnyway": "仍然发送",
+    "title": "无主题"
+  }
+}

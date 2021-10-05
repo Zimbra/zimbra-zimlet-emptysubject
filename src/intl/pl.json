@@ -1,0 +1,7 @@
+{
+  "noSubject": {
+    "description": "Ta wiadomość nie ma tematu.",
+    "sendAnyway": "Wyślij mimo to",
+    "title": "Brak tematu"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "noSubject": {
+    "description": "This message has no subject.",
+    "sendAnyway": "Send anyway",
+    "title": "No Subject"
+  }
+}

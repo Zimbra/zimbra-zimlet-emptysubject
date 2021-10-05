@@ -1,0 +1,7 @@
+{
+  "noSubject": {
+    "description": "Pesan ini tidak memiliki subyek.",
+    "sendAnyway": "Tetap kirim",
+    "title": "Tidak Ada Subjek"
+  }
+}

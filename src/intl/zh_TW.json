@@ -1,0 +1,7 @@
+{
+  "noSubject": {
+    "description": "此郵件沒有主旨。",
+    "sendAnyway": "還是要傳送",
+    "title": "無主旨"
+  }
+}
